@@ -28,7 +28,7 @@ npm start
 
 - Abre tu navegador en la dirección http://localhost:8000/ y visualiza la transmisión
 
-### LICENCE
+### LICENSE
 Este código está bajo licencia Apache 2.0
 
 Created By: carlosmart7104
